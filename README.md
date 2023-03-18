@@ -1,2 +1,4 @@
-# What's this
-This is the version of BalligusapoTT GUi where whitelist is free (DM DatEmage#4949 on discord for whitelist), decoded lol
+## BalligusapoTT GUI
+A version of it where whitelist is completely free
+## How to get whitelisted?
+It's easy, message DatEmage#4949 on Discord
